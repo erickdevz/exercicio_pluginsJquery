@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    margin-top:50px;
+}
+
+.container-geral {
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+    display: flex ;
+}
+
+#imagem-tel {
+    margin-right: -150px;
+}
+
+#logo {
+    width: 240px;
+}
+
+.logo-form {
+    top: 0;
+}
+
+form {
+    max-width: 500px;
+    padding: 0 50px;
+    margin-top: -70px;
+}
+
+form button {
+    max-width: 120px;
+}
+.form-campo {
+    margin-bottom: 16px;
+
+}
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+}
+
+.form-campo input {
+    width: 100%;
+    display: block;
+    
+}
+
